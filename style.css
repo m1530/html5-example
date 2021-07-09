@@ -1,0 +1,10 @@
+video{
+width: 400px;
+height: 300px;
+}
+table td, th{
+border: 3px solid lightgrey;
+}
+table{
+    border-collapse: collapse;
+}
